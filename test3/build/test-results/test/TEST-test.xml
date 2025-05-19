@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-19T14:16:48" hostname="DESKTOP-I1OTD8B" time="2.056">
+  <properties/>
+  <testcase name="test()" classname="test" time="2.056"/>
+  <system-out><![CDATA[All ok
+]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J(W): Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J(W): Ignoring binding found at [jar:file:/C:/Users/A/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.36/a41f9cfe6faafb2eb83a1c7dd2d0dfd844e2a936/slf4j-simple-1.7.36.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J(W): See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+]]></system-err>
+</testsuite>
